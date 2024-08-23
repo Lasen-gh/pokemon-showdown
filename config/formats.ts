@@ -3995,7 +3995,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		name: "[Gen 3] Ubers",
 		mod: 'gen3',
 		searchShow: false,
-		ruleset: ['Standard', 'Deoxys Camouflage Clause', 'One Baton Pass Clause'],
+		ruleset: ['Standard', 'Deoxys Camouflage Clause'],
 		banlist: ['Wobbuffet + Leftovers', 'Wynaut + Leftovers', 'Baton Pass'],
 	},
 	{
